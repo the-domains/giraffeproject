@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome to Giraffe
-datePublished: '2016-03-26T13:25:11.407Z'
-dateModified: '2016-03-26T13:25:02.562Z'
+datePublished: '2016-03-26T14:14:21.014Z'
+dateModified: '2016-03-26T14:14:20.747Z'
 title: The Giraffe project
 author: []
 authors: []
