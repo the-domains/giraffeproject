@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sponsoring children is a commitment over many \_years, but it's one of the most rewarding ways to help."
-datePublished: '2016-03-26T18:16:40.351Z'
-dateModified: '2016-03-26T18:16:20.683Z'
+datePublished: '2016-03-26T18:32:15.075Z'
+dateModified: '2016-03-26T18:31:00.111Z'
 title: How to help
 author: []
 sourcePath: _posts/2016-03-26-how-to-help.md
@@ -33,9 +33,9 @@ You don't need to go to Kenya, although if you want to we'll be happy to support
 As the kids get older, expect a few gifts back in return.  As with every child's gift, you may not quite know what to do with what you receive, but the fabrics and crafts are enchanting, and whatever you get will have been sent with love and pride.
 
 ## Primary sponsorship
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a48d9603-2fdb-403c-a3cf-e936b35f56f3.jpg)
 
 Primary school runs to age 14, and sponsorship includes tuition and food, a new uniform once a year, all textbooks, a medical check and annual class outing.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a48d9603-2fdb-403c-a3cf-e936b35f56f3.jpg)
 
 The cost to sponsor a promary school child is:
 
