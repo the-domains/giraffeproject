@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sponsoring children is a commitment over many \_years, but it's one of the most rewarding ways to help."
-datePublished: '2016-03-26T18:39:45.414Z'
-dateModified: '2016-03-26T18:39:35.828Z'
+datePublished: '2016-03-26T18:41:25.652Z'
+dateModified: '2016-03-26T18:39:53.801Z'
 title: Sponsor a youngster
 author: []
 sourcePath: _posts/2016-03-26-how-to-help.md
