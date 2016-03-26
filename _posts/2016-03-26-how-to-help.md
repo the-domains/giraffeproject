@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Supporting our kids
-datePublished: '2016-03-26T17:06:25.032Z'
-dateModified: '2016-03-26T17:03:29.859Z'
+datePublished: '2016-03-26T17:13:21.519Z'
+dateModified: '2016-03-26T17:13:16.815Z'
 title: How to help
 author: []
 authors: []
@@ -40,7 +40,7 @@ The cost to sponsor a promary school child is:
 
 GBP 25 ; EUR 30;  USE 38.50;  per calendar month.
 
-Secondary Sponsorship
+## Secondary Sponsorship
 
 Sponsorship to a secondary boarding school ccovers fees, boarding, bus fares to and from school, and a small amount of personal pocket money distributed monthly. Secondary school takes 4 years to complete. We have students at all levels who need sponsorship to finish.
 
