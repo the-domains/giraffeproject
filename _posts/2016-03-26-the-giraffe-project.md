@@ -6,25 +6,24 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: Welcome to Giraffe
-datePublished: '2016-03-26T17:06:16.095Z'
-dateModified: '2016-03-26T14:26:19.078Z'
+description: 'At Giraffe, we work in some of the mot difficult places on earth. The giant slums of Nairobi, Kenya.'
+datePublished: '2016-03-26T18:29:10.432Z'
+dateModified: '2016-03-26T18:28:55.583Z'
 title: The Giraffe project
 author: []
+sourcePath: _posts/2016-03-26-the-giraffe-project.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-the-giraffe-project.md
-published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5523cec3-c5e9-4bbc-bf19-80f188c955d4.png)
-
 At Giraffe, we work in some of the mot difficult places on earth. The giant slums of Nairobi, Kenya.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5523cec3-c5e9-4bbc-bf19-80f188c955d4.png)
 
 Our mission is simple; to give the kids who live in these awful places, something that no one can take away from them. An education.
 
