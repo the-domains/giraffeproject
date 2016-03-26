@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Three amazing schools
-datePublished: '2016-03-26T13:47:15.419Z'
-dateModified: '2016-03-26T13:46:56.085Z'
+datePublished: '2016-03-26T14:14:17.600Z'
+dateModified: '2016-03-26T14:14:17.153Z'
 title: Our projects
 author: []
 authors: []
