@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Tumaini means hope in Swahili. \_This primary school is located in the heart of Mathare north, one of Nairobi's most notorious slums."
-datePublished: '2016-03-26T21:13:20.891Z'
-dateModified: '2016-03-26T21:12:55.825Z'
+datePublished: '2016-03-26T21:14:29.246Z'
+dateModified: '2016-03-26T21:13:26.029Z'
 title: Our projects
 author: []
 sourcePath: _posts/2016-03-26-our-projects.md
@@ -37,7 +37,7 @@ This, slightly ironically named, school is located at the edge of Kibera, Africa
 
 Today, Green Pastures is one of the most successful schools in the district, attracting fee paying children looking to receive a top-level education alongside some of Africa's poorest youngsters.
 
-## Giraffe Education Centre
+## Giraffe Education Centre 
 
 The Giraffe education Centre is our secondary school.  We've located it in a more rural area, close to Nairobi, giving our older students a more tranquil place in which  to study.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83d490c9-b64b-47aa-9769-dc5de49330c5.jpg)
