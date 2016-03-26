@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sponsoring children is a commitment over many \_years, but it's one of the most rewarding ways to help."
-datePublished: '2016-03-26T18:35:49.696Z'
-dateModified: '2016-03-26T18:35:42.751Z'
-title: How to help
+datePublished: '2016-03-26T18:39:45.414Z'
+dateModified: '2016-03-26T18:39:35.828Z'
+title: Sponsor a youngster
 author: []
 sourcePath: _posts/2016-03-26-how-to-help.md
 published: true
@@ -22,7 +22,7 @@ url: how-to-help/index.html
 _type: WebPage
 
 ---
-## Sponsor a child
+## Sponsor a Kenyan child
 
 Sponsoring children is a commitment over many  years, but it's one of the most rewarding ways to help.
 
