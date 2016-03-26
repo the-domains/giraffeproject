@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T19:06:53.335Z'
-dateModified: '2016-03-26T19:06:43.496Z'
+datePublished: '2016-03-26T19:14:25.529Z'
+dateModified: '2016-03-26T19:08:15.581Z'
 title: Contact us
 author: []
 sourcePath: _posts/2016-03-26-contact-us.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: contact-us/index.html
-_type: WebPage
+_type: Article
 
 ---
 Contact us
