@@ -1,6 +1,6 @@
 name: The Giraffe Project
 favicon: null
-layout_spectrum: 0.3305
+layout_spectrum: 0.17896
 typography_spectrum: 0.28315
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#8c8077'
     - '#30291d'
   brandStrength: 0.5625
-  lightness: 0.625
-  saturation: 0.8125
-  rhythmicContrast: 0.5
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0
 purpose: []
