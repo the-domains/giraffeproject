@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Tumaini means hope in Swahili. \_This primary school is located in the heart of Mathare north, one of Nairobi's most notorious slums."
-datePublished: '2016-03-26T18:27:08.094Z'
-dateModified: '2016-03-26T18:26:52.087Z'
+datePublished: '2016-03-26T21:06:24.714Z'
+dateModified: '2016-03-26T21:06:20.163Z'
 title: Our projects
 author: []
 sourcePath: _posts/2016-03-26-our-projects.md
@@ -22,10 +22,11 @@ url: our-projects/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edd2835c-5d1c-4784-ab56-1f3240d2ff6a.jpg)
+
 ## Tumaini
 
 Tumaini means hope in Swahili.  This primary school is located in the heart of Mathare north, one of Nairobi's most notorious slums.
-![Tumaini (Hope) School](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e38191088aabfc89d3a529ef64a1735ab3f8cec.png)
 
 Giraffe built the school in 2011 and it is now run by a local NGO.  Tumaini offers hope to hundreds of young children including many  sponsored by the Giraffe Project.
 
