@@ -1,0 +1,28 @@
+name: The Giraffe Project
+favicon: null
+layout_spectrum: 0.08062595268711448
+typography_spectrum: 0.4670345124322921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.49657548940740526
+  lightness: 0.22739784140139818
+  saturation: 0.9147612049710006
+  rhythmicContrast: 0.989640689920634
+purpose: []
