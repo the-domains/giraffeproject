@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T19:05:09.214Z'
-dateModified: '2016-03-26T19:05:08.688Z'
+datePublished: '2016-03-26T19:06:53.335Z'
+dateModified: '2016-03-26T19:06:43.496Z'
 title: Contact us
 author: []
+sourcePath: _posts/2016-03-26-contact-us.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-contact-us.md
-published: true
 url: contact-us/index.html
 _type: WebPage
 
@@ -34,5 +34,6 @@ Sandgate
 Kent  
 CT20 3TD  
 United Kingdom
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95493635-4b24-4a59-b6f4-d09316ae5132.png)
 
 [0]: mailto:admin@giraffeproject.org
