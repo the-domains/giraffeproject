@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Tumaini means hope in Swahili. \_This primary school is located in the heart of Mathare north, one of Nairobi's most notorious slums."
-datePublished: '2016-03-26T18:23:55.505Z'
-dateModified: '2016-03-26T18:23:55.119Z'
+datePublished: '2016-03-26T18:25:54.353Z'
+dateModified: '2016-03-26T18:25:33.553Z'
 title: Our projects
 author: []
 sourcePath: _posts/2016-03-26-our-projects.md
@@ -33,7 +33,7 @@ Giraffe built the school in 2011 and it is now run by a local NGO.  Tumaini offe
 
 This, slightly ironically named school, is located at the edge of Kibera, Africa's biggest slum, and location of _The Constant Gardener _and Comic Relief's_Famous, Rich and in the Slums._
 
-Today, Green Pastures is one of the most successful schools in the district, attracting fe paying children looking to receive a top-level education alongside some of Africa's poorest kids.
+Today, Green Pastures is one of the most successful schools in the district, attracting fee paying children looking to receive a top-level education alongside some of Africa's poorest kids.
 
 ## Giraffe Education Centre
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83d490c9-b64b-47aa-9769-dc5de49330c5.jpg)
