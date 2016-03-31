@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'At Giraffe, we work in some of the mot difficult places on earth. The giant slums of Nairobi, Kenya.'
-datePublished: '2016-03-26T18:29:10.432Z'
-dateModified: '2016-03-26T18:28:55.583Z'
+description: 'Our mission is simple; to give the kids who live in these awful places, something that no one can take away from them. An education.'
+datePublished: '2016-03-31T18:53:59.169Z'
+dateModified: '2016-03-28T14:57:16.230Z'
 title: The Giraffe project
 author: []
 sourcePath: _posts/2016-03-26-the-giraffe-project.md
