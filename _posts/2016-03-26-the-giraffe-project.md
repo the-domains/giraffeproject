@@ -6,13 +6,14 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'Our mission is simple; to give the kids who live in these awful places, something that no one can take away from them. An education.'
-datePublished: '2016-03-31T18:53:59.169Z'
-dateModified: '2016-03-28T14:57:16.230Z'
+description: >-
+  At Giraffe, we work in some of the mot difficult places on earth. The giant
+  slums of Nairobi, Kenya.
+datePublished: '2016-08-20T16:58:15.821Z'
+dateModified: '2016-03-31T18:54:04.515Z'
 title: The Giraffe project
 author: []
 sourcePath: _posts/2016-03-26-the-giraffe-project.md
-published: true
 authors: []
 publisher:
   name: null
