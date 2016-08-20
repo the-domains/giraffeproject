@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Tumaini means hope in Swahili. \_This primary school is located in the heart of Mathare north, one of Nairobi's most notorious slums."
-datePublished: '2016-03-26T21:14:29.246Z'
-dateModified: '2016-03-26T21:13:26.029Z'
+datePublished: '2016-08-20T16:58:14.262Z'
+dateModified: '2016-03-26T21:14:37.664Z'
 title: Our projects
 author: []
 sourcePath: _posts/2016-03-26-our-projects.md
-published: true
 authors: []
 publisher:
   name: null
